@@ -6,9 +6,9 @@ import org.springframework.context.annotation.Configuration;
 
 public class TwilioConfig {
      
-	private static final String accountSid = "enter twillo account sid";
-	private static final String authToken ="enter authtoken";
-	private static final String trialNumber ="trail number provide by twillo";
+	private static final String accountSid = ""; //enter twillo account sid
+	private static final String authToken =""; //enter authtoken
+	private static final String trialNumber =""; //trail number provide by twillo
 	
 	public TwilioConfig() {
 		
